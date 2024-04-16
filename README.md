@@ -18,5 +18,4 @@ Requirements:
 ```bash
 mvn clean install
 ```
-good second night
-gooood
+good second
